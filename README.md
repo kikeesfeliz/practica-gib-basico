@@ -1,0 +1,1 @@
+Aprender a manegar y utilizar las herramientas basicas de Gib para obtener conocimientos de trabajo en equipo y colaboracion de codigos
