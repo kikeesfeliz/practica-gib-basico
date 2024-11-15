@@ -18,3 +18,6 @@ Este es mi cambio en main
 
 
 Este cambio es una main prueba 2
+Este cambio es en prueba 2
+que ondas
+Cambio para prueba de RESET ya con soft
